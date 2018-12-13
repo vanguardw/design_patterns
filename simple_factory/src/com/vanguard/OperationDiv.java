@@ -8,6 +8,7 @@ package com.vanguard;
  * @Date: 2018/12/13
  */
 public class OperationDiv extends Operation {
+
     @Override
     public double getResult() throws Exception {
         if(getNumberB() == 0) {
