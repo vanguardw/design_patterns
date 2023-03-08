@@ -18,6 +18,10 @@
 
     <modules>
         <module>proxy</module>
+        <module>auth</module>
+        <module>strategy</module>
+        <module>simple_factory</module>
+        <module>decorator</module>
     </modules>
 
     <build>
